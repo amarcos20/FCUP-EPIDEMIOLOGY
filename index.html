@@ -31,6 +31,7 @@ sub{font-size:.72em;line-height:0}
   padding:10px 16px;background:var(--paper);border-bottom:1px solid var(--rule)}
 .bar .t{min-width:0;font-weight:700;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .bar .actions{display:flex;gap:8px;flex-shrink:0}
+@media (max-width:560px){.bar .t{display:none}.bar{justify-content:flex-end}}
 .btn{font:600 13px/1 Arial,sans-serif;padding:8px 12px;border-radius:6px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);text-decoration:none;cursor:pointer}
 .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--paper)}
 .btn:hover{border-color:var(--accent)}
@@ -125,7 +126,8 @@ tr.tot td{font-weight:700}
 <header class="bar">
   <span class="t">Cafeína e Doença de Parkinson — Protocolo de estudo caso-controlo</span>
   <span class="actions">
-    <a class="btn" href="documentos/Protocolo_Cafeina_Parkinson.docx" download>.docx</a>
+    <a class="btn" href="documentos/Protocolo_Cafeina_Parkinson.pdf" target="_blank" rel="noopener">Protocolo PDF</a>
+    <a class="btn" href="documentos/Anexo_Protocolo_Cafeina_Parkinson.pdf" target="_blank" rel="noopener">Anexo PDF</a>
     <button class="btn primary" type="button" onclick="window.print()">Guardar PDF</button>
   </span>
 </header>

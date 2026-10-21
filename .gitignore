@@ -3,3 +3,4 @@
 .~lock.*#
 .DS_Store
 documentos/versoes-anteriores/
+documentos/*.docx
