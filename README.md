@@ -12,11 +12,9 @@ Para obter um PDF, abrir a página e usar o botão **Guardar PDF**.
 | Ficheiro | Descrição |
 |---|---|
 | [`index.html`](index.html) | Protocolo completo e anexo numa página, com ligações para as referências (DOI), o glossário e as secções do anexo |
-| [`documentos/Protocolo_Cafeina_Parkinson.docx`](documentos/Protocolo_Cafeina_Parkinson.docx) | Protocolo (versão de entrega, máx. 3 páginas) |
-| [`documentos/Anexo_Protocolo_Cafeina_Parkinson.docx`](documentos/Anexo_Protocolo_Cafeina_Parkinson.docx) | Anexo: glossário, teores de cafeína, cálculo do tamanho amostral |
+| [`documentos/Protocolo_Cafeina_Parkinson.pdf`](documentos/Protocolo_Cafeina_Parkinson.pdf) | Protocolo (versão de entrega, máx. 3 páginas) |
+| [`documentos/Anexo_Protocolo_Cafeina_Parkinson.pdf`](documentos/Anexo_Protocolo_Cafeina_Parkinson.pdf) | Anexo: glossário, teores de cafeína, cálculo do tamanho amostral |
 | [`documentos/Apresentacao_Protocolo_Cafeina_Parkinson.pptx`](documentos/Apresentacao_Protocolo_Cafeina_Parkinson.pptx) | Apresentação em aula |
-
-A hiperligação do protocolo para o anexo só funciona se os dois `.docx` estiverem na mesma pasta.
 
 ## Autores
 
