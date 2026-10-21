@@ -1,0 +1,5 @@
+~$*
+*.tmp
+.~lock.*#
+.DS_Store
+documentos/versoes-anteriores/
