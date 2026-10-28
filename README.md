@@ -1,6 +1,6 @@
 # FCUP-EPIDEMIOLOGY
 
-[![University](https://img.shields.io/badge/Universidade-U.Porto%20%7C%20FCUP%20%E2%80%A2%20ICBAS-005A9C?style=flat-square)](https://sigarra.up.pt)
+[![University](https://img.shields.io/badge/Universidade-U.Porto%20%7C%20FCUP%20%E2%80%A2%20ICBAS-005A9C?style=flat-square)](https://www.up.pt/fcup/pt/)
 [![Course](https://img.shields.io/badge/Licenciatura-Bioinform%C3%A1tica%20(3.%C2%BA%20Ano)-blue?style=flat-square)](https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_ano_lectivo=2026&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=29881)
 [![Subject](https://img.shields.io/badge/UC-Epidemiologia%202026%2F2027-success?style=flat-square)](https://sigarra.up.pt/icbas/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=594820)
 [![GitHub Pages](https://img.shields.io/badge/Web-GitHub%20Pages-informational?style=flat-square)](https://amarcos20.github.io/FCUP-EPIDEMIOLOGY/)
@@ -40,9 +40,9 @@ Trabalho final desenvolvido no âmbito da Unidade Curricular de **Epidemiologia*
 
 | Estudante | Número | GitHub | LinkedIn |
 |---|:---:|:---:|:---:|
-| **Afonso Gomes dos Santos** | 202406167 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
-| **Afonso Miguel Vieira Marcos** | 202404088 | [![GitHub](https://img.shields.io/badge/amarcos20-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/amarcos20) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
-| **Artur Miguel Guerreiro Anselmo** | 202403965 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
+| **Afonso Gomes dos Santos** | 202406167 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/afonso-gomes-santos-5982b2411/)) |
+| **Afonso Miguel Vieira Marcos** | 202404088 | [![GitHub](https://img.shields.io/badge/amarcos20-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/amarcos20) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonsomarcos20/) |
+| **Artur Miguel Guerreiro Anselmo** | 202403965 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/artur-anselmo-3936b2242/) |
 | **Pedro Miguel Moreira Pereira Afonso** | 202404125 | [![GitHub](https://img.shields.io/badge/PedroA35-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroA35) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
 | **Rafael Raposo dos Santos** | 202405265 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
 
