@@ -1,7 +1,7 @@
 # FCUP-EPIDEMIOLOGY
 
 [![University](https://img.shields.io/badge/Universidade-U.Porto%20%7C%20FCUP%20%E2%80%A2%20ICBAS-005A9C?style=flat-square)](https://sigarra.up.pt)
-[![Course](https://img.shields.io/badge/Licenciatura-Bioinform%C3%A1tica%20(3.%C2%BA%20Ano)-blue?style=flat-square)]([https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_curso_id=14601](https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_ano_lectivo=2026&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=29881))
+[![Course](https://img.shields.io/badge/Licenciatura-Bioinform%C3%A1tica%20(3.%C2%BA%20Ano)-blue?style=flat-square)](https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_ano_lectivo=2026&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=29881)
 [![Subject](https://img.shields.io/badge/UC-Epidemiologia%202026%2F2027-success?style=flat-square)](https://sigarra.up.pt)
 [![GitHub Pages](https://img.shields.io/badge/Web-GitHub%20Pages-informational?style=flat-square)](https://amarcos20.github.io/FCUP-EPIDEMIOLOGY/)
 
